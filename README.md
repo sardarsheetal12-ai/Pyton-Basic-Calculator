@@ -1,2 +1,3 @@
-# Pyton-Basic-Calculator
-A collection of simple Python programs including a Basic Calculator.
+Project Name- Pyton-Basic-Calculator
+About- This project performs basic math operations (Addition, Subtraction, etc.).
+Tech Used- Python,Jupitor Notebook
